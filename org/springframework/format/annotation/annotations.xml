@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.format.annotation.DateTimeFormat'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
